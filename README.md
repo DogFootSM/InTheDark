@@ -21,4 +21,4 @@
 - 파밍한 아이템을 판매하여 재화를 축적하고 생존 기간을 늘리는 게임
 
 # 3. 영상 및 기술서
-- Youtube : https://www.youtube.com/watch?v=IzX5wLx4hvM
+- Youtube : https://www.youtube.com/watch?v=NqRRmhoTh8s
