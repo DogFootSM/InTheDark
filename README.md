@@ -21,5 +21,4 @@
 - 파밍한 아이템을 판매하여 재화를 축적하고 생존 기간을 늘리는 게임
 
 # 3. 영상 및 기술서
-- Notion : https://complex-speedwell-5e2.notion.site/1c6f154c1686802fa2d7c75814f8f369
-- Youtube : https://www.youtube.com/watch?v=VO18FSAk0Wo
+- Youtube : https://www.youtube.com/watch?v=IzX5wLx4hvM
